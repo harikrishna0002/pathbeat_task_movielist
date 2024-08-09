@@ -4,9 +4,9 @@
 This is a basic application of the IMDb homepage and movie detail page. The application allows users to view a list of movies and see detailed information about each movie when clicking on a movie card.
 
 ## Tech Stack
-Frontend: HTML, CSS, React.js
-Backend: Node.js with Express
-Database: MySQL
+- Frontend: HTML, CSS, React.js
+- Backend: Node.js with Express
+- Database: MySQL
 
 ## Getting Started
 Prerequisites:
