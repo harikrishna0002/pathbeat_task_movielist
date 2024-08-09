@@ -15,7 +15,7 @@ MySQL installed and running
 
 ## Installation
 Clone the repository:
-> git clone [<repository-url>](https://github.com/harikrishna0002/pathbeat_task_movielist.git)
+git clone [<repository-url>](https://github.com/harikrishna0002/pathbeat_task_movielist.git)
 
 Install backend dependencies:
 > cd backend
